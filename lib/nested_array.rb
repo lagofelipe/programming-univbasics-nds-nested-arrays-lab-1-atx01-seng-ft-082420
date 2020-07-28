@@ -33,7 +33,7 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
 storage_room_two =[]
 storage_room_two.push(CONVENTIONAL_PRODUCE.sort)
-storage_room_two.push(CONVENTIONAL_PRODUCE.sort)
+storage_room_two.push(ORGANIC_PRODUCE.sort)
 
 end
 
