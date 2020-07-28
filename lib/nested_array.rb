@@ -34,7 +34,7 @@ def sorted_matrix
 storage_room_two =[]
 storage_room_two.push(CONVENTIONAL_PRODUCE.sort)
 storage_room_two.push(CONVENTIONAL_PRODUCE.sort)
-  
+
 end
 
 def matrix_lookup(matrix, row, column)
